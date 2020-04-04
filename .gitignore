@@ -1,0 +1,16 @@
+*.exe
+*.pdb
+*.b1s
+*.log
+*.cache
+*.svn
+*.suo
+*.DS_Store
+prueba.txt
+*.dll
+
+
+#directorio
+/obj/Debug
+/obj
+obj/Debug/

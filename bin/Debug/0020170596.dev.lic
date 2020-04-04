@@ -1,0 +1,655 @@
+04-10-2011 02:01:09 [TParametros] 
+04-10-2011 02:01:16 [TParametros] 
+04-10-2011 02:01:20 [TParametros] 
+04-10-2011 02:06:13 [TMainClassExt] 
+04-10-2011 02:06:13 [TMainClassExt] Iniciando...
+04-10-2011 02:06:13 [TMainClassExt] 
+04-10-2011 02:06:13 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 02:06:16 [TMainClassExt] ConectarApplication
+04-10-2011 02:06:16 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 02:06:18 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 02:06:18 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 02:06:18 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 02:06:18 [TMainClassExt] SHA1 EDRQ.xls[yybsepGUaxTuVQxtj2xhEoabOHg=]
+04-10-2011 02:06:18 [TMainClassExt] InitApp: Estructura de datos - Requisiciones
+04-10-2011 02:06:19 [TMainClassExt] Procesando Archivo C:\Visualk\Proyectos Prism\Requisiciones\bin\Debug\Docs\EDRQ.xls
+04-10-2011 02:06:19 [TMainClassExt] Numero de registros leidos 171 C:\Visualk\Proyectos Prism\Requisiciones\bin\Debug\Docs\EDRQ.xls
+04-10-2011 02:06:19 [TMainClassExt] AddUserTableWrn: Tabla VID_RQPARAM previamente creada.
+04-10-2011 02:06:19 [TMainClassExt] AddUserFieldsWrn: Campo - Code de SBO.
+04-10-2011 02:06:19 [TMainClassExt] AddUserFieldsWrn: Campo - Name de SBO.
+04-10-2011 02:06:19 [TMainClassExt] AddUserFieldsWrn: Campo - WhsOC Existente.
+04-10-2011 02:06:19 [TMainClassExt] AddUserFieldsWrn: Campo - WhsCot Existente.
+04-10-2011 02:06:19 [TMainClassExt] AddUserFieldsWrn: Campo - ReqAprob Existente.
+04-10-2011 02:06:19 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - ReqAprob
+04-10-2011 02:06:19 [TMainClassExt] AddUserFieldValidValueWrn: Valor - Y - Existente para Campo - ReqAprob
+04-10-2011 02:06:19 [TMainClassExt] AddUserTableWrn: Tabla VID_RQPARAMD previamente creada.
+04-10-2011 02:06:19 [TMainClassExt] AddUserFieldsWrn: Campo - Dummy Existente.
+04-10-2011 02:06:19 [TMainClassExt] AddUserTableWrn: Tabla VID_RQREQ previamente creada.
+04-10-2011 02:06:19 [TMainClassExt] AddUserFieldsWrn: Campo - Sucursal Existente.
+04-10-2011 02:06:19 [TMainClassExt] AddUserFieldsWrn: Campo - Status Existente.
+04-10-2011 02:06:19 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - Status
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldValidValueWrn: Valor - C - Existente para Campo - Status
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldValidValueWrn: Valor - X - Existente para Campo - Status
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - DocDate Existente.
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - DueDate Existente.
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - CardCode Existente.
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - CardName Existente.
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - User Existente.
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - Area Existente.
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - UserAprob Existente.
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - CCosto Existente.
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - Proy Existente.
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - NumSol Existente.
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - OperUnit Existente.
+04-10-2011 02:06:20 [TMainClassExt] AddUserTableWrn: Tabla VID_RQREQD previamente creada.
+04-10-2011 02:06:20 [TMainClassExt] AddUserFieldsWrn: Campo - ItemCode Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - Dscript Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - WhsCode Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - Quantity Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - QtyAtten Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - QtyOrig Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - QtyOpen Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - CardCode Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - CardName Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - DueDate Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - Aprob Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - Aprob
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldValidValueWrn: Valor - A - Existente para Campo - Aprob
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldValidValueWrn: Valor - R - Existente para Campo - Aprob
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - Status Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - Status
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldValidValueWrn: Valor - C - Existente para Campo - Status
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - Currency Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - Price Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - UM Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - CCosto Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - Proy Existente.
+04-10-2011 02:06:21 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - CommApro Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - Target Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - AcctCode Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - AcctFmt Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - NumRef Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - Equipo Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserTableWrn: Tabla VID_RQUOPER previamente creada.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - Code de SBO.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - Name de SBO.
+04-10-2011 02:06:22 [TMainClassExt] AddUserTableWrn: Tabla VID_RQSOLCOM previamente creada.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - Status Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - Status
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldValidValueWrn: Valor - C - Existente para Campo - Status
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldValidValueWrn: Valor - X - Existente para Campo - Status
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - DocDate Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - DueDate Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - CardCode Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - CardName Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldsWrn: Campo - Source Existente.
+04-10-2011 02:06:22 [TMainClassExt] AddUserFieldValidValueWrn: Valor - U - Existente para Campo - Source
+04-10-2011 02:06:23 [TMainClassExt] AddUserFieldValidValueWrn: Valor - M - Existente para Campo - Source
+04-10-2011 02:06:23 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:06:23 [TMainClassExt] AddUserTableWrn: Tabla VID_RQSOLCOMD previamente creada.
+04-10-2011 02:06:23 [TMainClassExt] AddUserFieldsWrn: Campo - ItemCode Existente.
+04-10-2011 02:06:23 [TMainClassExt] AddUserFieldsWrn: Campo - Dscript Existente.
+04-10-2011 02:06:23 [TMainClassExt] AddUserFieldsWrn: Campo - WhsCode Existente.
+04-10-2011 02:06:23 [TMainClassExt] AddUserFieldsWrn: Campo - Quantity Existente.
+04-10-2011 02:06:23 [TMainClassExt] AddUserFieldsWrn: Campo - DocDate Existente.
+04-10-2011 02:06:23 [TMainClassExt] AddUserFieldsWrn: Campo - Aprob Existente.
+04-10-2011 02:06:23 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - Aprob
+04-10-2011 02:06:23 [TMainClassExt] AddUserFieldValidValueWrn: Valor - A - Existente para Campo - Aprob
+04-10-2011 02:06:23 [TMainClassExt] AddUserFieldValidValueWrn: Valor - R - Existente para Campo - Aprob
+04-10-2011 02:06:23 [TMainClassExt] AddUserFieldsWrn: Campo - Status Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - Status
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldValidValueWrn: Valor - C - Existente para Campo - Status
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - Currency Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - Price Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - CCosto Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - Proy Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - Destino Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - CommApro Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - EmpId Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - FecAprob Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - DocNum Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - LineNum Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - TipoDoc Existente.
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldValidValueWrn: Valor - O - Existente para Campo - TipoDoc
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldValidValueWrn: Valor - C - Existente para Campo - TipoDoc
+04-10-2011 02:06:24 [TMainClassExt] AddUserFieldsWrn: Campo - OperUnit Existente.
+04-10-2011 02:06:25 [TMainClassExt] AddUserTableWrn: Tabla VID_RQATT previamente creada.
+04-10-2011 02:06:25 [TMainClassExt] AddUserFieldsWrn: Campo - NumRQ Existente.
+04-10-2011 02:06:25 [TMainClassExt] AddUserFieldsWrn: Campo - DocDate Existente.
+04-10-2011 02:06:25 [TMainClassExt] AddUserFieldsWrn: Campo - DueDate Existente.
+04-10-2011 02:06:25 [TMainClassExt] AddUserFieldsWrn: Campo - User Existente.
+04-10-2011 02:06:25 [TMainClassExt] AddUserFieldsWrn: Campo - Area Existente.
+04-10-2011 02:06:25 [TMainClassExt] AddUserFieldsWrn: Campo - OperUnit Existente.
+04-10-2011 02:06:25 [TMainClassExt] AddUserFieldsWrn: Campo - Sucursal Existente.
+04-10-2011 02:06:25 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:06:25 [TMainClassExt] AddUserFieldsWrn: Campo - OpDate Existente.
+04-10-2011 02:06:25 [TMainClassExt] AddUserTableWrn: Tabla VID_RQATTD previamente creada.
+04-10-2011 02:06:25 [TMainClassExt] AddUserFieldsWrn: Campo - Linea Existente.
+04-10-2011 02:06:25 [TMainClassExt] AddUserFieldsWrn: Campo - ItemCode Existente.
+04-10-2011 02:06:25 [TMainClassExt] AddUserFieldsWrn: Campo - Dscript Existente.
+04-10-2011 02:06:26 [TMainClassExt] AddUserFieldsWrn: Campo - QtyPend Existente.
+04-10-2011 02:06:26 [TMainClassExt] AddUserFieldsWrn: Campo - UM Existente.
+04-10-2011 02:06:26 [TMainClassExt] AddUserFieldsWrn: Campo - QtyAtten Existente.
+04-10-2011 02:06:26 [TMainClassExt] AddUserFieldsWrn: Campo - CCosto Existente.
+04-10-2011 02:06:26 [TMainClassExt] AddUserFieldsWrn: Campo - Proy Existente.
+04-10-2011 02:06:26 [TMainClassExt] AddUserFieldsWrn: Campo - WhsCode Existente.
+04-10-2011 02:06:26 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:06:26 [TMainClassExt] AddUserFieldsWrn: Campo - NumOp Existente.
+04-10-2011 02:06:26 [TMainClassExt] AddUserFieldsWrn: Campo - LineaOp Existente.
+04-10-2011 02:06:26 [TMainClassExt] AddUserFieldsWrn: Campo - Equipo Existente.
+04-10-2011 02:06:26 [TMainClassExt] AddUserFieldsWrn: Campo - CerrarL Existente.
+04-10-2011 02:06:26 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - CerrarL
+04-10-2011 02:06:27 [TMainClassExt] AddUserFieldValidValueWrn: Valor - Y - Existente para Campo - CerrarL
+04-10-2011 02:06:27 [TMainClassExt] AddUserTableWrn: Tabla VID_RQDEV previamente creada.
+04-10-2011 02:06:27 [TMainClassExt] AddUserFieldsWrn: Campo - NumRQ Existente.
+04-10-2011 02:06:27 [TMainClassExt] AddUserFieldsWrn: Campo - DocDate Existente.
+04-10-2011 02:06:27 [TMainClassExt] AddUserFieldsWrn: Campo - DueDate Existente.
+04-10-2011 02:06:27 [TMainClassExt] AddUserFieldsWrn: Campo - User Existente.
+04-10-2011 02:06:27 [TMainClassExt] AddUserFieldsWrn: Campo - Area Existente.
+04-10-2011 02:06:27 [TMainClassExt] AddUserFieldsWrn: Campo - OperUnit Existente.
+04-10-2011 02:06:27 [TMainClassExt] AddUserFieldsWrn: Campo - Sucursal Existente.
+04-10-2011 02:06:27 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:06:27 [TMainClassExt] AddUserFieldsWrn: Campo - OpDate Existente.
+04-10-2011 02:06:27 [TMainClassExt] AddUserFieldsWrn: Campo - Cestado Existente.
+04-10-2011 02:06:27 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - Cestado
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldValidValueWrn: Valor - Y - Existente para Campo - Cestado
+04-10-2011 02:06:28 [TMainClassExt] AddUserTableWrn: Tabla VID_RQDEVD previamente creada.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - Linea Existente.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - ItemCode Existente.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - Dscript Existente.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - QtyPend Existente.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - UM Existente.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - QtyDev Existente.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - CCosto Existente.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - Proy Existente.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - WhsCode Existente.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - NumOp Existente.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - LineaOp Existente.
+04-10-2011 02:06:28 [TMainClassExt] AddUserTableWrn: Tabla VID_DESTRQ previamente creada.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - Code de SBO.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - Name de SBO.
+04-10-2011 02:06:28 [TMainClassExt] AddUserFieldsWrn: Campo - ValCCto Existente.
+04-10-2011 02:06:29 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - ValCCto
+04-10-2011 02:06:29 [TMainClassExt] AddUserFieldValidValueWrn: Valor - Y - Existente para Campo - ValCCto
+04-10-2011 02:06:29 [TMainClassExt] AddUserFieldsWrn: Campo - ValProy Existente.
+04-10-2011 02:06:29 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - ValProy
+04-10-2011 02:06:29 [TMainClassExt] AddUserFieldValidValueWrn: Valor - Y - Existente para Campo - ValProy
+04-10-2011 02:06:29 [TMainClassExt] AddUserFieldsWrn: Campo - ValRef Existente.
+04-10-2011 02:06:29 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - ValRef
+04-10-2011 02:06:29 [TMainClassExt] AddUserFieldValidValueWrn: Valor - Y - Existente para Campo - ValRef
+04-10-2011 02:06:29 [TMainClassExt] AddUserFieldsWrn: Campo - QryValCC Existente.
+04-10-2011 02:06:29 [TMainClassExt] AddUserFieldsWrn: Campo - QryValPr Existente.
+04-10-2011 02:06:29 [TMainClassExt] AddUserFieldsWrn: Campo - RQAutTyp Existente.
+04-10-2011 02:06:29 [TMainClassExt] AddUserFieldValidValueWrn: Valor - D - Existente para Campo - RQAutTyp
+04-10-2011 02:06:30 [TMainClassExt] AddUserFieldValidValueWrn: Valor - J - Existente para Campo - RQAutTyp
+04-10-2011 02:06:30 [TMainClassExt] AddUserFieldValidValueWrn: Valor - C - Existente para Campo - RQAutTyp
+04-10-2011 02:06:30 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - RQAutTyp
+04-10-2011 02:06:30 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - RQAutTyp
+04-10-2011 02:06:30 [TMainClassExt] AddUserFieldsWrn: Campo - RQAutEmp Existente.
+04-10-2011 02:06:30 [TMainClassExt] AddUserFieldsWrn: Campo - AcctSrc Existente.
+04-10-2011 02:06:30 [TMainClassExt] AddUserFieldValidValueWrn: Valor - U - Existente para Campo - AcctSrc
+04-10-2011 02:06:30 [TMainClassExt] AddUserFieldValidValueWrn: Valor - W - Existente para Campo - AcctSrc
+04-10-2011 02:06:30 [TMainClassExt] AddUserFieldValidValueWrn: Valor - R - Existente para Campo - AcctSrc
+04-10-2011 02:06:30 [TMainClassExt] AddUserFieldValidValueWrn: Valor - D - Existente para Campo - AcctSrc
+04-10-2011 02:06:31 [TMainClassExt] AddUserFieldsWrn: Campo - AcctFmt Existente.
+04-10-2011 02:06:31 [TMainClassExt] AddUserFieldsWrn: Campo - AcctCode Existente.
+04-10-2011 02:06:31 [TMainClassExt] AddUDOWrn: AddUDO - VID_RQPARAM Existente.
+04-10-2011 02:06:36 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_RQPARAM Ok.
+04-10-2011 02:06:36 [TMainClassExt] AddUDOWrn: AddUDO - VID_RQREQ Existente.
+04-10-2011 02:06:42 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_RQREQ Ok.
+04-10-2011 02:06:42 [TMainClassExt] AddUDOWrn: AddUDO - VID_RQUOPER Existente.
+04-10-2011 02:06:48 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_RQUOPER Ok.
+04-10-2011 02:06:48 [TMainClassExt] AddUDOWrn: AddUDO - VID_RQSOLCOM Existente.
+04-10-2011 02:06:53 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_RQSOLCOM Ok.
+04-10-2011 02:06:54 [TMainClassExt] AddUDOWrn: AddUDO - VID_RQATT Existente.
+04-10-2011 02:06:58 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_RQATT Ok.
+04-10-2011 02:06:58 [TMainClassExt] AddUDOWrn: AddUDO - VID_RQDEV Existente.
+04-10-2011 02:07:03 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_RQDEV Ok.
+04-10-2011 02:07:03 [TMainClassExt] AddUDOWrn: AddUDO - VID_DESTRQ Existente.
+04-10-2011 02:07:08 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_DESTRQ Ok.
+04-10-2011 02:07:08 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 02:07:08 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 02:07:08 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 02:08:02 [TParametros] 
+04-10-2011 02:08:14 [TRequerimientos] 
+04-10-2011 02:09:22 [TRequerimientos] 
+04-10-2011 02:10:34 [TRequerimientos] 
+04-10-2011 02:15:34 [TMainClassExt] 
+04-10-2011 02:15:34 [TMainClassExt] Iniciando...
+04-10-2011 02:15:34 [TMainClassExt] 
+04-10-2011 02:15:34 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 02:15:38 [TMainClassExt] ConectarApplication
+04-10-2011 02:15:38 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 02:15:42 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 02:15:42 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 02:15:42 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 02:15:42 [TMainClassExt] SHA1 EDRQ.xls[yybsepGUaxTuVQxtj2xhEoabOHg=]
+04-10-2011 02:15:42 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 02:15:42 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 02:15:42 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 02:16:08 [TRequerimientos] 
+04-10-2011 02:16:12 [TRequerimientos] FormEvent: SBO err: 0 - ; SO: The server threw an exception. (Exception from HRESULT: 0x80010105 (RPC_E_SERVERFAULT)) ** Trace:    at SAPbouiCOM.IComboBox.Select(Object Index, BoSearchKey SearchKey)
+   at Requisiciones.Requerimientos.TRequerimientos.FormEvent(String FormUID, ItemEvent& pVal, Boolean& BubbleEvent) in C:\Visualk\Proyectos Prism\Requisiciones\units\Requerimientos.pas:line 539
+04-10-2011 02:17:03 [TMainClassExt] 
+04-10-2011 02:17:03 [TMainClassExt] Iniciando...
+04-10-2011 02:17:03 [TMainClassExt] 
+04-10-2011 02:17:03 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 02:17:05 [TMainClassExt] ConectarApplication
+04-10-2011 02:17:05 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 02:17:07 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 02:17:07 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 02:17:07 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 02:17:07 [TMainClassExt] SHA1 EDRQ.xls[yybsepGUaxTuVQxtj2xhEoabOHg=]
+04-10-2011 02:17:07 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 02:17:07 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 02:17:07 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 02:17:11 [TRequerimientos] 
+04-10-2011 02:37:27 [TMainClassExt] 
+04-10-2011 02:37:27 [TMainClassExt] Iniciando...
+04-10-2011 02:37:27 [TMainClassExt] 
+04-10-2011 02:37:27 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 02:37:29 [TMainClassExt] ConectarApplication
+04-10-2011 02:37:29 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 02:37:31 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 02:37:31 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 02:37:31 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 02:37:31 [TMainClassExt] SHA1 EDRQ.xls[yybsepGUaxTuVQxtj2xhEoabOHg=]
+04-10-2011 02:37:31 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 02:37:31 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 02:37:31 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 02:37:38 [TRequerimientos] 
+04-10-2011 02:38:18 [TRequerimientos] 
+04-10-2011 02:42:35 [TMainClassExt] 
+04-10-2011 02:42:35 [TMainClassExt] Iniciando...
+04-10-2011 02:42:35 [TMainClassExt] 
+04-10-2011 02:42:36 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 02:42:39 [TMainClassExt] ConectarApplication
+04-10-2011 02:42:39 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 02:42:41 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 02:42:41 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 02:42:41 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 02:42:41 [TMainClassExt] SHA1 EDRQ.xls[wurafcVNV+3DA5R9OAqE7pQEX0k=]
+04-10-2011 02:42:41 [TMainClassExt] InitApp: Estructura de datos - Requisiciones
+04-10-2011 02:42:41 [TMainClassExt] Procesando Archivo C:\Visualk\Proyectos Prism\Requisiciones\bin\Debug\Docs\EDRQ.xls
+04-10-2011 02:42:41 [TMainClassExt] Numero de registros leidos 183 C:\Visualk\Proyectos Prism\Requisiciones\bin\Debug\Docs\EDRQ.xls
+04-10-2011 02:42:41 [TMainClassExt] AddUserTableWrn: Tabla VID_RQPARAM previamente creada.
+04-10-2011 02:42:41 [TMainClassExt] AddUserFieldsWrn: Campo - Code de SBO.
+04-10-2011 02:42:41 [TMainClassExt] AddUserFieldsWrn: Campo - Name de SBO.
+04-10-2011 02:42:41 [TMainClassExt] AddUserFieldsWrn: Campo - WhsOC Existente.
+04-10-2011 02:42:41 [TMainClassExt] AddUserFieldsWrn: Campo - WhsCot Existente.
+04-10-2011 02:42:41 [TMainClassExt] AddUserFieldsWrn: Campo - ReqAprob Existente.
+04-10-2011 02:42:41 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - ReqAprob
+04-10-2011 02:42:41 [TMainClassExt] AddUserFieldValidValueWrn: Valor - Y - Existente para Campo - ReqAprob
+04-10-2011 02:42:41 [TMainClassExt] AddUserTableWrn: Tabla VID_RQPARAMD previamente creada.
+04-10-2011 02:42:41 [TMainClassExt] AddUserFieldsWrn: Campo - Dummy Existente.
+04-10-2011 02:42:41 [TMainClassExt] AddUserTableWrn: Tabla VID_RQREQ previamente creada.
+04-10-2011 02:42:41 [TMainClassExt] AddUserFieldsWrn: Campo - Sucursal Existente.
+04-10-2011 02:42:41 [TMainClassExt] AddUserFieldsWrn: Campo - Status Existente.
+04-10-2011 02:42:41 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - Status
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldValidValueWrn: Valor - C - Existente para Campo - Status
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldValidValueWrn: Valor - X - Existente para Campo - Status
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - DocDate Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - DueDate Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - CardCode Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - CardName Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - User Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - Area Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - UserAprob Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - CCosto Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - Proy Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - NumSol Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - OperUnit Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserTableWrn: Tabla VID_RQREQD previamente creada.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - ItemCode Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - Dscript Existente.
+04-10-2011 02:42:42 [TMainClassExt] AddUserFieldsWrn: Campo - WhsCode Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - Quantity Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - QtyAtten Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - QtyOrig Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - QtyOpen Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - CardCode Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - CardName Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - DueDate Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - Aprob Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - Aprob
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldValidValueWrn: Valor - A - Existente para Campo - Aprob
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldValidValueWrn: Valor - R - Existente para Campo - Aprob
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - Status Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - Status
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldValidValueWrn: Valor - C - Existente para Campo - Status
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - Currency Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - Price Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - UM Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - CCosto Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - Proy Existente.
+04-10-2011 02:42:43 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:42:44 [TMainClassExt] AddUserFieldsWrn: Campo - CommApro Existente.
+04-10-2011 02:42:44 [TMainClassExt] AddUserFieldsWrn: Campo - Target Existente.
+04-10-2011 02:42:44 [TMainClassExt] AddUserFieldsWrn: Campo - AcctCode Existente.
+04-10-2011 02:42:44 [TMainClassExt] AddUserFieldsWrn: Campo - AcctFmt Existente.
+04-10-2011 02:42:44 [TMainClassExt] AddUserFieldsWrn: Campo - NumRef Existente.
+04-10-2011 02:42:44 [TMainClassExt] AddUserFieldsWrn: Campo - Equipo Existente.
+04-10-2011 02:42:46 [TMainClassExt] AddUserFieldsOk: Campo - Vid_Str1 Ok.
+04-10-2011 02:42:48 [TMainClassExt] AddUserFieldsOk: Campo - Vid_Str2 Ok.
+04-10-2011 02:42:50 [TMainClassExt] AddUserFieldsOk: Campo - Vid_Str3 Ok.
+04-10-2011 02:42:52 [TMainClassExt] AddUserFieldsOk: Campo - Vid_Flt1 Ok.
+04-10-2011 02:42:54 [TMainClassExt] AddUserFieldsOk: Campo - Vid_Flt2 Ok.
+04-10-2011 02:42:56 [TMainClassExt] AddUserFieldsOk: Campo - Vid_Flt3 Ok.
+04-10-2011 02:42:56 [TMainClassExt] AddUserTableWrn: Tabla VID_RQUOPER previamente creada.
+04-10-2011 02:42:56 [TMainClassExt] AddUserFieldsWrn: Campo - Code de SBO.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - Name de SBO.
+04-10-2011 02:42:57 [TMainClassExt] AddUserTableWrn: Tabla VID_RQSOLCOM previamente creada.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - Status Existente.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - Status
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldValidValueWrn: Valor - C - Existente para Campo - Status
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldValidValueWrn: Valor - X - Existente para Campo - Status
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - DocDate Existente.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - DueDate Existente.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - CardCode Existente.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - CardName Existente.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - Source Existente.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldValidValueWrn: Valor - U - Existente para Campo - Source
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldValidValueWrn: Valor - M - Existente para Campo - Source
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:42:57 [TMainClassExt] AddUserTableWrn: Tabla VID_RQSOLCOMD previamente creada.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - ItemCode Existente.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - Dscript Existente.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - WhsCode Existente.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - Quantity Existente.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - DocDate Existente.
+04-10-2011 02:42:57 [TMainClassExt] AddUserFieldsWrn: Campo - Aprob Existente.
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - Aprob
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldValidValueWrn: Valor - A - Existente para Campo - Aprob
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldValidValueWrn: Valor - R - Existente para Campo - Aprob
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldsWrn: Campo - Status Existente.
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - Status
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldValidValueWrn: Valor - C - Existente para Campo - Status
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldsWrn: Campo - Currency Existente.
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldsWrn: Campo - Price Existente.
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldsWrn: Campo - CCosto Existente.
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldsWrn: Campo - Proy Existente.
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldsWrn: Campo - Destino Existente.
+04-10-2011 02:42:58 [TMainClassExt] AddUserFieldsWrn: Campo - CommApro Existente.
+04-10-2011 02:42:59 [TMainClassExt] AddUserFieldsWrn: Campo - EmpId Existente.
+04-10-2011 02:42:59 [TMainClassExt] AddUserFieldsWrn: Campo - FecAprob Existente.
+04-10-2011 02:42:59 [TMainClassExt] AddUserFieldsWrn: Campo - DocNum Existente.
+04-10-2011 02:42:59 [TMainClassExt] AddUserFieldsWrn: Campo - LineNum Existente.
+04-10-2011 02:42:59 [TMainClassExt] AddUserFieldsWrn: Campo - TipoDoc Existente.
+04-10-2011 02:42:59 [TMainClassExt] AddUserFieldValidValueWrn: Valor - O - Existente para Campo - TipoDoc
+04-10-2011 02:42:59 [TMainClassExt] AddUserFieldValidValueWrn: Valor - C - Existente para Campo - TipoDoc
+04-10-2011 02:42:59 [TMainClassExt] AddUserFieldsWrn: Campo - OperUnit Existente.
+04-10-2011 02:43:01 [TMainClassExt] AddUserFieldsOk: Campo - Vid_Str1 Ok.
+04-10-2011 02:43:03 [TMainClassExt] AddUserFieldsOk: Campo - Vid_Str2 Ok.
+04-10-2011 02:43:05 [TMainClassExt] AddUserFieldsOk: Campo - Vid_Str3 Ok.
+04-10-2011 02:43:07 [TMainClassExt] AddUserFieldsOk: Campo - Vid_Flt1 Ok.
+04-10-2011 02:43:09 [TMainClassExt] AddUserFieldsOk: Campo - Vid_Flt2 Ok.
+04-10-2011 02:43:11 [TMainClassExt] AddUserFieldsOk: Campo - Vid_Flt3 Ok.
+04-10-2011 02:43:11 [TMainClassExt] AddUserTableWrn: Tabla VID_RQATT previamente creada.
+04-10-2011 02:43:11 [TMainClassExt] AddUserFieldsWrn: Campo - NumRQ Existente.
+04-10-2011 02:43:11 [TMainClassExt] AddUserFieldsWrn: Campo - DocDate Existente.
+04-10-2011 02:43:11 [TMainClassExt] AddUserFieldsWrn: Campo - DueDate Existente.
+04-10-2011 02:43:11 [TMainClassExt] AddUserFieldsWrn: Campo - User Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - Area Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - OperUnit Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - Sucursal Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - OpDate Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserTableWrn: Tabla VID_RQATTD previamente creada.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - Linea Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - ItemCode Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - Dscript Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - QtyPend Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - UM Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - QtyAtten Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - CCosto Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - Proy Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - WhsCode Existente.
+04-10-2011 02:43:12 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - NumOp Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - LineaOp Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - Equipo Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - CerrarL Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - CerrarL
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldValidValueWrn: Valor - Y - Existente para Campo - CerrarL
+04-10-2011 02:43:13 [TMainClassExt] AddUserTableWrn: Tabla VID_RQDEV previamente creada.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - NumRQ Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - DocDate Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - DueDate Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - User Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - Area Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - OperUnit Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - Sucursal Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:43:13 [TMainClassExt] AddUserFieldsWrn: Campo - OpDate Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - Cestado Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - Cestado
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldValidValueWrn: Valor - Y - Existente para Campo - Cestado
+04-10-2011 02:43:14 [TMainClassExt] AddUserTableWrn: Tabla VID_RQDEVD previamente creada.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - Linea Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - ItemCode Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - Dscript Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - QtyPend Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - UM Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - QtyDev Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - CCosto Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - Proy Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - WhsCode Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - Comments Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - NumOp Existente.
+04-10-2011 02:43:14 [TMainClassExt] AddUserFieldsWrn: Campo - LineaOp Existente.
+04-10-2011 02:43:15 [TMainClassExt] AddUserTableWrn: Tabla VID_DESTRQ previamente creada.
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldsWrn: Campo - Code de SBO.
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldsWrn: Campo - Name de SBO.
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldsWrn: Campo - ValCCto Existente.
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - ValCCto
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldValidValueWrn: Valor - Y - Existente para Campo - ValCCto
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldsWrn: Campo - ValProy Existente.
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - ValProy
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldValidValueWrn: Valor - Y - Existente para Campo - ValProy
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldsWrn: Campo - ValRef Existente.
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - ValRef
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldValidValueWrn: Valor - Y - Existente para Campo - ValRef
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldsWrn: Campo - QryValCC Existente.
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldsWrn: Campo - QryValPr Existente.
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldsWrn: Campo - RQAutTyp Existente.
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldValidValueWrn: Valor - D - Existente para Campo - RQAutTyp
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldValidValueWrn: Valor - J - Existente para Campo - RQAutTyp
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldValidValueWrn: Valor - C - Existente para Campo - RQAutTyp
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldValidValueWrn: Valor - P - Existente para Campo - RQAutTyp
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldValidValueWrn: Valor - N - Existente para Campo - RQAutTyp
+04-10-2011 02:43:15 [TMainClassExt] AddUserFieldsWrn: Campo - RQAutEmp Existente.
+04-10-2011 02:43:16 [TMainClassExt] AddUserFieldsWrn: Campo - AcctSrc Existente.
+04-10-2011 02:43:16 [TMainClassExt] AddUserFieldValidValueWrn: Valor - U - Existente para Campo - AcctSrc
+04-10-2011 02:43:16 [TMainClassExt] AddUserFieldValidValueWrn: Valor - W - Existente para Campo - AcctSrc
+04-10-2011 02:43:16 [TMainClassExt] AddUserFieldValidValueWrn: Valor - R - Existente para Campo - AcctSrc
+04-10-2011 02:43:16 [TMainClassExt] AddUserFieldValidValueWrn: Valor - D - Existente para Campo - AcctSrc
+04-10-2011 02:43:16 [TMainClassExt] AddUserFieldsWrn: Campo - AcctFmt Existente.
+04-10-2011 02:43:16 [TMainClassExt] AddUserFieldsWrn: Campo - AcctCode Existente.
+04-10-2011 02:43:16 [TMainClassExt] AddUDOWrn: AddUDO - VID_RQPARAM Existente.
+04-10-2011 02:43:19 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_RQPARAM Ok.
+04-10-2011 02:43:19 [TMainClassExt] AddUDOWrn: AddUDO - VID_RQREQ Existente.
+04-10-2011 02:43:21 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_RQREQ Ok.
+04-10-2011 02:43:21 [TMainClassExt] AddUDOWrn: AddUDO - VID_RQUOPER Existente.
+04-10-2011 02:43:23 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_RQUOPER Ok.
+04-10-2011 02:43:24 [TMainClassExt] AddUDOWrn: AddUDO - VID_RQSOLCOM Existente.
+04-10-2011 02:43:26 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_RQSOLCOM Ok.
+04-10-2011 02:43:26 [TMainClassExt] AddUDOWrn: AddUDO - VID_RQATT Existente.
+04-10-2011 02:43:28 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_RQATT Ok.
+04-10-2011 02:43:28 [TMainClassExt] AddUDOWrn: AddUDO - VID_RQDEV Existente.
+04-10-2011 02:43:30 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_RQDEV Ok.
+04-10-2011 02:43:30 [TMainClassExt] AddUDOWrn: AddUDO - VID_DESTRQ Existente.
+04-10-2011 02:43:32 [TMainClassExt] UDODefBasicOk: UDODefBasic - VID_DESTRQ Ok.
+04-10-2011 02:43:32 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 02:43:32 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 02:43:32 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 02:44:05 [TRequerimientos] 
+04-10-2011 02:47:56 [TRequerimientos] 
+04-10-2011 02:50:28 [TSolicitudCompra] 
+04-10-2011 03:42:41 [TSolicitudCompra] 
+04-10-2011 03:53:03 [TMainClassExt] 
+04-10-2011 03:53:03 [TMainClassExt] Iniciando...
+04-10-2011 03:53:03 [TMainClassExt] 
+04-10-2011 03:53:03 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 03:53:17 [TMainClassExt] 
+04-10-2011 03:53:17 [TMainClassExt] Iniciando...
+04-10-2011 03:53:17 [TMainClassExt] 
+04-10-2011 03:53:17 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 03:53:20 [TMainClassExt] ConectarApplication
+04-10-2011 03:53:20 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 03:53:24 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 03:53:24 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 03:53:24 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 03:53:24 [TMainClassExt] SHA1 EDRQ.xls[wurafcVNV+3DA5R9OAqE7pQEX0k=]
+04-10-2011 03:53:24 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 03:53:24 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 03:53:24 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 03:53:28 [TSolicitudCompra] 
+04-10-2011 03:53:56 [TMainClassExt] MatrizConDatosOK In
+04-10-2011 03:54:03 [TMainClassExt] MatrizConDatosOK In
+04-10-2011 03:54:04 [TMainClassExt] oDS.TableName @VID_RQSOLCOM
+04-10-2011 03:56:47 [TMainClassExt] 
+04-10-2011 03:56:47 [TMainClassExt] Iniciando...
+04-10-2011 03:56:47 [TMainClassExt] 
+04-10-2011 03:56:47 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 03:56:51 [TMainClassExt] ConectarApplication
+04-10-2011 03:56:51 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 03:56:54 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 03:56:54 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 03:56:54 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 03:56:54 [TMainClassExt] SHA1 EDRQ.xls[wurafcVNV+3DA5R9OAqE7pQEX0k=]
+04-10-2011 03:56:54 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 03:56:54 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 03:56:54 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 04:06:59 [TSolicitudCompra] 
+04-10-2011 04:07:28 [TMainClassExt] MatrizConDatosOK In
+04-10-2011 04:07:28 [TMainClassExt] columna sin datos Quantity - fila 1
+04-10-2011 04:07:37 [TMainClassExt] MatrizConDatosOK In
+04-10-2011 04:07:50 [TMainClassExt] MatrizConDatosOK In
+04-10-2011 04:07:50 [TMainClassExt] oDS.TableName @VID_RQSOLCOM
+04-10-2011 04:21:43 [TMainClassExt] 
+04-10-2011 04:21:43 [TMainClassExt] Iniciando...
+04-10-2011 04:21:43 [TMainClassExt] 
+04-10-2011 04:21:43 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 04:21:47 [TMainClassExt] ConectarApplication
+04-10-2011 04:21:47 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 04:21:50 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 04:21:50 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 04:21:50 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 04:21:50 [TMainClassExt] SHA1 EDRQ.xls[wurafcVNV+3DA5R9OAqE7pQEX0k=]
+04-10-2011 04:21:50 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 04:21:50 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 04:21:50 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 04:28:17 [TRecepcionBodega] 
+04-10-2011 04:30:41 [TStockTransfer] 
+04-10-2011 04:35:39 [TMainClassExt] 
+04-10-2011 04:35:39 [TMainClassExt] Iniciando...
+04-10-2011 04:35:39 [TMainClassExt] 
+04-10-2011 04:35:39 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 04:35:42 [TMainClassExt] ConectarApplication
+04-10-2011 04:35:42 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 04:35:44 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 04:35:44 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 04:35:44 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 04:35:44 [TMainClassExt] SHA1 EDRQ.xls[wurafcVNV+3DA5R9OAqE7pQEX0k=]
+04-10-2011 04:35:44 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 04:35:44 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 04:35:44 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 04:35:47 [TStockTransfer] 
+04-10-2011 04:38:55 [TMainClassExt] 
+04-10-2011 04:38:55 [TMainClassExt] Iniciando...
+04-10-2011 04:38:55 [TMainClassExt] 
+04-10-2011 04:38:55 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 04:38:58 [TMainClassExt] ConectarApplication
+04-10-2011 04:38:58 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 04:39:00 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 04:39:00 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 04:39:00 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 04:39:00 [TMainClassExt] SHA1 EDRQ.xls[wurafcVNV+3DA5R9OAqE7pQEX0k=]
+04-10-2011 04:39:00 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 04:39:00 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 04:39:00 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 04:39:03 [TStockTransfer] 
+04-10-2011 04:41:10 [TBodegasConTraslado] 
+04-10-2011 04:41:40 [TBodegasConTraslado] 
+04-10-2011 05:06:06 [TSolicitudCompra] 
+04-10-2011 05:06:16 [TGeneracionOC] 
+04-10-2011 05:06:19 [TGeneracionOC] FormEvent: SBO err: 0 - ; SO: Estructura de consulta no permitida  [300-33]. The SQL error is 2812 ** Trace:    at SAPbouiCOM.DataTableClass.ExecuteQuery(String Query)
+   at Requisiciones.GeneracionOC.TGeneracionOC.CargarGrilla(Form oForm) in C:\Visualk\Proyectos Prism\Requisiciones\units\GeneracionOC.pas:line 283
+   at Requisiciones.GeneracionOC.TGeneracionOC.FormEvent(String FormUID, ItemEvent& pVal, Boolean& BubbleEvent) in C:\Visualk\Proyectos Prism\Requisiciones\units\GeneracionOC.pas:line 125
+04-10-2011 05:06:27 [TGeneracionOC] FormEvent: SBO err: 0 - ; SO: Estructura de consulta no permitida  [300-33]. The SQL error is 2812 ** Trace:    at SAPbouiCOM.DataTableClass.ExecuteQuery(String Query)
+   at Requisiciones.GeneracionOC.TGeneracionOC.CargarGrilla(Form oForm) in C:\Visualk\Proyectos Prism\Requisiciones\units\GeneracionOC.pas:line 283
+   at Requisiciones.GeneracionOC.TGeneracionOC.FormEvent(String FormUID, ItemEvent& pVal, Boolean& BubbleEvent) in C:\Visualk\Proyectos Prism\Requisiciones\units\GeneracionOC.pas:line 125
+04-10-2011 05:09:06 [TAprobacionSolCompra] 
+04-10-2011 05:09:17 [TAprobacionSolCompra] 
+04-10-2011 05:09:35 [TGeneracionOC] 
+04-10-2011 05:10:18 [TMainClassExt] 
+04-10-2011 05:10:18 [TMainClassExt] Iniciando...
+04-10-2011 05:10:18 [TMainClassExt] 
+04-10-2011 05:10:18 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 05:10:21 [TMainClassExt] ConectarApplication
+04-10-2011 05:10:21 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 05:10:25 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 05:10:25 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 05:10:25 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 05:10:25 [TMainClassExt] SHA1 EDRQ.xls[wurafcVNV+3DA5R9OAqE7pQEX0k=]
+04-10-2011 05:10:25 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 05:10:25 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 05:10:25 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 05:11:29 [TGeneracionOC] 
+04-10-2011 05:21:22 [TMainClassExt] 
+04-10-2011 05:21:22 [TMainClassExt] Iniciando...
+04-10-2011 05:21:22 [TMainClassExt] 
+04-10-2011 05:21:22 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 05:21:25 [TMainClassExt] ConectarApplication
+04-10-2011 05:21:25 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 05:21:27 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 05:21:27 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 05:21:27 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 05:21:27 [TMainClassExt] SHA1 EDRQ.xls[wurafcVNV+3DA5R9OAqE7pQEX0k=]
+04-10-2011 05:21:27 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 05:21:28 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 05:21:28 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 05:21:32 [TGeneracionOC] 
+04-10-2011 05:22:21 [TGeneracionOC] TGeneracionOC.Procesar: SBO err: -10 - Actualice el tipo de cambio  , 'EUR'  [Zpráva 131-6]; SO: Error al crear Documento - Codigo -10 Descripcion : Actualice el tipo de cambio  , 'EUR'  [Zpráva 131-6] ** Trace:    at Requisiciones.GeneracionOC.TGeneracionOC.GenerarDoc(Form oForm, Int32 Fila, Int32 Count, BoObjectTypes Tipo) in C:\Visualk\Proyectos Prism\Requisiciones\units\GeneracionOC.pas:line 538
+   at Requisiciones.GeneracionOC.TGeneracionOC.Procesar(Form oForm) in C:\Visualk\Proyectos Prism\Requisiciones\units\GeneracionOC.pas:line 441
+04-10-2011 05:22:39 [TGeneracionOC] TGeneracionOC.Procesar: SBO err: -10 - Actualice el tipo de cambio  , 'NZD'  [Zpráva 131-6]; SO: Error al crear Documento - Codigo -10 Descripcion : Actualice el tipo de cambio  , 'NZD'  [Zpráva 131-6] ** Trace:    at Requisiciones.GeneracionOC.TGeneracionOC.GenerarDoc(Form oForm, Int32 Fila, Int32 Count, BoObjectTypes Tipo) in C:\Visualk\Proyectos Prism\Requisiciones\units\GeneracionOC.pas:line 538
+   at Requisiciones.GeneracionOC.TGeneracionOC.Procesar(Form oForm) in C:\Visualk\Proyectos Prism\Requisiciones\units\GeneracionOC.pas:line 441
+04-10-2011 05:27:40 [TCancelacionRqSol] 
+04-10-2011 05:31:17 [TMainClassExt] 
+04-10-2011 05:31:17 [TMainClassExt] Iniciando...
+04-10-2011 05:31:17 [TMainClassExt] 
+04-10-2011 05:31:17 [TMainClassExt] InitApp: aplicacion...
+04-10-2011 05:31:20 [TMainClassExt] ConectarApplication
+04-10-2011 05:31:20 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+04-10-2011 05:31:23 [TMainClassExt] InitApp: Estructura de datos - SHA1
+04-10-2011 05:31:23 [TMainClassExt] SHA1 EDSHA1.xls[l3WiVuQQFESO8H5GNN0JHJi2Fus=]
+04-10-2011 05:31:23 [TMainClassExt] SHA1 EDM.xls[HBL4vyseJwAQYUlIPmE5V1R+3Mc=]
+04-10-2011 05:31:23 [TMainClassExt] SHA1 EDRQ.xls[wurafcVNV+3DA5R9OAqE7pQEX0k=]
+04-10-2011 05:31:23 [TMainClassExt] SHA1 EDRQ2.xls[6QFq8VU/HslMLdHjsIEJ1PRDr5U=]
+04-10-2011 05:31:23 [TMainClassExt] SHA1 EDVK.xls[2KuX6Kq6ZbLciuHUjPS4LPD4ysQ=]
+04-10-2011 05:31:23 [TMainClassExt] Delphi Prism - Shine your crazy diamond!
+04-10-2011 05:31:24 [TCancelacionRqSol] 
+04-10-2011 05:55:16 [ycorGM5IYYHE] 
+04-10-2011 05:55:16 [ycorGM5IYYHE] Iniciando...
+04-10-2011 05:55:16 [ycorGM5IYYHE] 
+04-10-2011 05:55:16 [ycorGM5IYYHE] InitApp: aplicacion...
+04-10-2011 05:55:16 [ycorGM5IYYHE] ConectarApplication
+04-10-2011 05:55:16 [ycorGM5IYYHE] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+06-10-2011 02:04:40 [TMainClassExt] 
+06-10-2011 02:04:40 [TMainClassExt] Iniciando...
+06-10-2011 02:04:40 [TMainClassExt] 
+06-10-2011 02:04:42 [TMainClassExt] InitApp: aplicacion...
+06-10-2011 02:04:42 [TMainClassExt] ConectarApplication
+06-10-2011 02:04:43 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
+06-10-2011 02:05:28 [TMainClassExt] 
+06-10-2011 02:05:28 [TMainClassExt] Iniciando...
+06-10-2011 02:05:28 [TMainClassExt] 
+06-10-2011 02:05:28 [TMainClassExt] InitApp: aplicacion...
+06-10-2011 02:05:28 [TMainClassExt] ConectarApplication
+06-10-2011 02:05:28 [TMainClassExt] ConnectString: 0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056
